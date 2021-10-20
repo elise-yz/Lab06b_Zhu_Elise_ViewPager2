@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Lab06 ViewPager2</string>
+    <string name="button_text">press me</string>
+</resources>
